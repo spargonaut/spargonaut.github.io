@@ -1,5 +1,5 @@
 # spargonaut.github.io
 
 Hello World.  
-This is where I'm planning to write some stuff.   
-sorry.  :/
+
+You can find out more about me and my work on my [website](https://spargonaut.com/)  
